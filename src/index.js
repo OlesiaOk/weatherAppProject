@@ -1,4 +1,4 @@
-//import "./styles.css";
+import "./styles.css";
 function reciveTime() {
   let currentTime = new Date();
   let date = currentTime.getDate();
